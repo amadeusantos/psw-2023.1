@@ -12,6 +12,7 @@ package br.upe.enenhariasoftware.psw.jabberpoint;
 import java.util.ArrayList;
 
 public class Presentation {
+	private static final long serserialVersionUID = 1L;
 
 	private String title;
 	private ArrayList<Slide> showList = null;
