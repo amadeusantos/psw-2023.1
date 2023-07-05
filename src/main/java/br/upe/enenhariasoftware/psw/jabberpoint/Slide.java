@@ -16,6 +16,7 @@ import java.util.Vector;
 
 public class Slide {
 
+	private static long serialVersionUID = 1905122041950251207L;
 	public final static int WIDTH = 1200;
 	public final static int HEIGHT = 800;
 
